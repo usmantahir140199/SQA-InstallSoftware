@@ -1,0 +1,11 @@
+EclipseIDE
+VS Code
+Intellij Idea
+Techsmith Capture
+Virtual Box
+JDK
+Nodejs
+Postman
+Mysql Workbench
+SQL Management Studio
+IceCream Recorder
